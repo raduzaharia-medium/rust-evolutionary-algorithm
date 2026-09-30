@@ -1,0 +1,9 @@
+[package]
+name = "rust-evolutionary-test"
+version = "0.1.0"
+authors = ["radu"]
+edition = "2024"
+rust-version = "1.85"
+
+[dependencies]
+rand = "0.10"
